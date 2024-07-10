@@ -43,7 +43,6 @@ class AcuSightCrosshair:
     def reset_to_default(self):
         self.change_crosshair('default')
 
-# Initialize Pygame for sound effect
 
 pygame.mixer.init()
 miss_sound = pygame.mixer.Sound("ressources/sounds/miss.wav")
