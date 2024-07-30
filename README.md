@@ -1,4 +1,4 @@
-# Waifu-CrosshairV.BETA0.1
+# AcuSight-V.BETA0.1
 
 This Crosshair helps you to aim better and cheers you after an kill. If you miss a shot or die you get bullied ;3
 After an Ace (depends on game) it will moan :3 
