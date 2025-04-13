@@ -10,4 +10,4 @@ It is still in process and the first BETA version!
 
 # DISCORD
 
-I would love if you join my server [FANTASY WORLD](https://discord.gg/PHUAyGJwKA)
+I would love if you join my server [AMETHYST ASYLUM](https://discord.gg/37cKyT78rX)
